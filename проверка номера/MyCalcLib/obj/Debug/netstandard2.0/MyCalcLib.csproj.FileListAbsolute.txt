@@ -1,0 +1,9 @@
+F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\MyCalcLib\bin\Debug\netstandard2.0\MyCalcLib.deps.json
+F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\MyCalcLib\bin\Debug\netstandard2.0\MyCalcLib.dll
+F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\MyCalcLib\bin\Debug\netstandard2.0\MyCalcLib.pdb
+F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\MyCalcLib\obj\Debug\netstandard2.0\MyCalcLib.csprojAssemblyReference.cache
+F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\MyCalcLib\obj\Debug\netstandard2.0\MyCalcLib.AssemblyInfoInputs.cache
+F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\MyCalcLib\obj\Debug\netstandard2.0\MyCalcLib.AssemblyInfo.cs
+F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\MyCalcLib\obj\Debug\netstandard2.0\MyCalcLib.dll
+F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\MyCalcLib\obj\Debug\netstandard2.0\MyCalcLib.pdb
+F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\MyCalcLib\obj\Debug\netstandard2.0\MyCalcLib.csproj.CoreCompileInputs.cache
