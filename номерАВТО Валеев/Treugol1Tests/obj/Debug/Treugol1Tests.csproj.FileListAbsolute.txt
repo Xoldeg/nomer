@@ -1,0 +1,96 @@
+F:\УП Валеев\Treugol1\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\УП Валеев\Treugol1\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\УП Валеев\Treugol1\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\УП Валеев\Treugol1\Treugol1Tests\bin\Debug\Treugol1Tests.dll
+F:\УП Валеев\Treugol1\Treugol1Tests\bin\Debug\Treugol1Tests.pdb
+F:\УП Валеев\Treugol1\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\УП Валеев\Treugol1\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\УП Валеев\Treugol1\Treugol1Tests\bin\Debug\Treugol1.dll
+F:\УП Валеев\Treugol1\Treugol1Tests\bin\Debug\Treugol1.pdb
+F:\УП Валеев\Treugol1\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\УП Валеев\Treugol1\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\УП Валеев\Treugol1\Treugol1Tests\obj\Debug\Treugol1Tests.csprojAssemblyReference.cache
+F:\УП Валеев\Treugol1\Treugol1Tests\obj\Debug\Treugol1Tests.csproj.CoreCompileInputs.cache
+F:\УП Валеев\Treugol1\Treugol1Tests\obj\Debug\Treugol1Tests.csproj.CopyComplete
+F:\УП Валеев\Treugol1\Treugol1Tests\obj\Debug\Treugol1Tests.dll
+F:\УП Валеев\Treugol1\Treugol1Tests\obj\Debug\Treugol1Tests.pdb
+G:\тесты\Treugol1\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\тесты\Treugol1\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\тесты\Treugol1\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\тесты\Treugol1\Treugol1Tests\bin\Debug\Treugol1Tests.dll
+G:\тесты\Treugol1\Treugol1Tests\bin\Debug\Treugol1Tests.pdb
+G:\тесты\Treugol1\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\тесты\Treugol1\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\тесты\Treugol1\Treugol1Tests\bin\Debug\Treugol1.dll
+G:\тесты\Treugol1\Treugol1Tests\bin\Debug\Treugol1.pdb
+G:\тесты\Treugol1\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\тесты\Treugol1\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\тесты\Treugol1\Treugol1Tests\obj\Debug\Treugol1Tests.csprojAssemblyReference.cache
+G:\тесты\Treugol1\Treugol1Tests\obj\Debug\Treugol1Tests.csproj.CoreCompileInputs.cache
+G:\тесты\Treugol1\Treugol1Tests\obj\Debug\Treugol1Tests.csproj.CopyComplete
+G:\тесты\Treugol1\Treugol1Tests\obj\Debug\Treugol1Tests.dll
+G:\тесты\Treugol1\Treugol1Tests\obj\Debug\Treugol1Tests.pdb
+F:\тесты\Treugol1\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\тесты\Treugol1\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\тесты\Treugol1\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\тесты\Treugol1\Treugol1Tests\bin\Debug\Treugol1Tests.dll
+F:\тесты\Treugol1\Treugol1Tests\bin\Debug\Treugol1Tests.pdb
+F:\тесты\Treugol1\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\тесты\Treugol1\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\тесты\Treugol1\Treugol1Tests\bin\Debug\Treugol1.dll
+F:\тесты\Treugol1\Treugol1Tests\bin\Debug\Treugol1.pdb
+F:\тесты\Treugol1\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\тесты\Treugol1\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\тесты\Treugol1\Treugol1Tests\obj\Debug\Treugol1Tests.csprojAssemblyReference.cache
+F:\тесты\Treugol1\Treugol1Tests\obj\Debug\Treugol1Tests.csproj.CoreCompileInputs.cache
+F:\тесты\Treugol1\Treugol1Tests\obj\Debug\Treugol1Tests.csproj.CopyComplete
+F:\тесты\Treugol1\Treugol1Tests\obj\Debug\Treugol1Tests.dll
+F:\тесты\Treugol1\Treugol1Tests\obj\Debug\Treugol1Tests.pdb
+G:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Treugol1Tests.dll
+G:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Treugol1Tests.pdb
+G:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Treugol1.dll
+G:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Treugol1.pdb
+G:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\тесты\номерАВТО\Treugol1Tests\obj\Debug\Treugol1Tests.csprojAssemblyReference.cache
+G:\тесты\номерАВТО\Treugol1Tests\obj\Debug\Treugol1Tests.csproj.CoreCompileInputs.cache
+G:\тесты\номерАВТО\Treugol1Tests\obj\Debug\Treugol1Tests.csproj.CopyComplete
+G:\тесты\номерАВТО\Treugol1Tests\obj\Debug\Treugol1Tests.dll
+G:\тесты\номерАВТО\Treugol1Tests\obj\Debug\Treugol1Tests.pdb
+F:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Treugol1Tests.dll
+F:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Treugol1Tests.pdb
+F:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Treugol1.dll
+F:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Treugol1.pdb
+F:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\тесты\номерАВТО\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\тесты\номерАВТО\Treugol1Tests\obj\Debug\Treugol1Tests.csprojAssemblyReference.cache
+F:\тесты\номерАВТО\Treugol1Tests\obj\Debug\Treugol1Tests.csproj.CoreCompileInputs.cache
+F:\тесты\номерАВТО\Treugol1Tests\obj\Debug\Treugol1Tests.csproj.CopyComplete
+F:\тесты\номерАВТО\Treugol1Tests\obj\Debug\Treugol1Tests.dll
+F:\тесты\номерАВТО\Treugol1Tests\obj\Debug\Treugol1Tests.pdb
+F:\тесты\номерАВТО — копия\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\тесты\номерАВТО — копия\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\тесты\номерАВТО — копия\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\тесты\номерАВТО — копия\Treugol1Tests\bin\Debug\Treugol1Tests.dll
+F:\тесты\номерАВТО — копия\Treugol1Tests\bin\Debug\Treugol1Tests.pdb
+F:\тесты\номерАВТО — копия\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\тесты\номерАВТО — копия\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\тесты\номерАВТО — копия\Treugol1Tests\bin\Debug\Treugol1.dll
+F:\тесты\номерАВТО — копия\Treugol1Tests\bin\Debug\Treugol1.pdb
+F:\тесты\номерАВТО — копия\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\тесты\номерАВТО — копия\Treugol1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\тесты\номерАВТО — копия\Treugol1Tests\obj\Debug\Treugol1Tests.csprojAssemblyReference.cache
+F:\тесты\номерАВТО — копия\Treugol1Tests\obj\Debug\Treugol1Tests.csproj.CoreCompileInputs.cache
+F:\тесты\номерАВТО — копия\Treugol1Tests\obj\Debug\Treugol1Tests.csproj.CopyComplete
+F:\тесты\номерАВТО — копия\Treugol1Tests\obj\Debug\Treugol1Tests.dll
+F:\тесты\номерАВТО — копия\Treugol1Tests\obj\Debug\Treugol1Tests.pdb

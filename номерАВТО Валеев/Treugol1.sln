@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treugol1", "Treugol1\Treugol1.csproj", "{D69D5105-843C-499B-B58D-5CCBF0C5030C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treugol1Tests", "Treugol1Tests\Treugol1Tests.csproj", "{A521E485-788C-453E-970E-BDD3B265A76B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D69D5105-843C-499B-B58D-5CCBF0C5030C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D69D5105-843C-499B-B58D-5CCBF0C5030C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D69D5105-843C-499B-B58D-5CCBF0C5030C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D69D5105-843C-499B-B58D-5CCBF0C5030C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A521E485-788C-453E-970E-BDD3B265A76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A521E485-788C-453E-970E-BDD3B265A76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A521E485-788C-453E-970E-BDD3B265A76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A521E485-788C-453E-970E-BDD3B265A76B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88648312-8440-4D2D-BFBA-38A0D1A1AABE}
+	EndGlobalSection
+EndGlobal

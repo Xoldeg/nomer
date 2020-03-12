@@ -1,8 +1,0 @@
-F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.deps.json
-F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.dll
-F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.pdb
-F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.csprojAssemblyReference.cache
-F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.AssemblyInfoInputs.cache
-F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.AssemblyInfo.cs
-F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.dll
-F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.pdb

@@ -1,9 +1,0 @@
-F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\liib2\bin\Debug\netstandard2.0\liib2.deps.json
-F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\liib2\bin\Debug\netstandard2.0\liib2.dll
-F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\liib2\bin\Debug\netstandard2.0\liib2.pdb
-F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\liib2\obj\Debug\netstandard2.0\liib2.csprojAssemblyReference.cache
-F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\liib2\obj\Debug\netstandard2.0\liib2.AssemblyInfoInputs.cache
-F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\liib2\obj\Debug\netstandard2.0\liib2.AssemblyInfo.cs
-F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\liib2\obj\Debug\netstandard2.0\liib2.dll
-F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\liib2\obj\Debug\netstandard2.0\liib2.pdb
-F:\ПО ВИДОСУ ДЕЛАЕМ\MyCalcLib\liib2\obj\Debug\netstandard2.0\liib2.csproj.CoreCompileInputs.cache

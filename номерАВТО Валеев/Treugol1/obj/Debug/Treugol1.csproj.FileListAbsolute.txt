@@ -1,0 +1,36 @@
+F:\УП Валеев\Treugol1\Treugol1\bin\Debug\Treugol1.dll
+F:\УП Валеев\Treugol1\Treugol1\bin\Debug\Treugol1.pdb
+F:\УП Валеев\Treugol1\Treugol1\obj\Debug\Treugol1.csprojAssemblyReference.cache
+F:\УП Валеев\Treugol1\Treugol1\obj\Debug\Treugol1.csproj.CoreCompileInputs.cache
+F:\УП Валеев\Treugol1\Treugol1\obj\Debug\Treugol1.dll
+F:\УП Валеев\Treugol1\Treugol1\obj\Debug\Treugol1.pdb
+G:\тесты\Treugol1\Treugol1\bin\Debug\Treugol1.dll
+G:\тесты\Treugol1\Treugol1\bin\Debug\Treugol1.pdb
+G:\тесты\Treugol1\Treugol1\obj\Debug\Treugol1.csprojAssemblyReference.cache
+G:\тесты\Treugol1\Treugol1\obj\Debug\Treugol1.csproj.CoreCompileInputs.cache
+G:\тесты\Treugol1\Treugol1\obj\Debug\Treugol1.dll
+G:\тесты\Treugol1\Treugol1\obj\Debug\Treugol1.pdb
+F:\тесты\Treugol1\Treugol1\bin\Debug\Treugol1.dll
+F:\тесты\Treugol1\Treugol1\bin\Debug\Treugol1.pdb
+F:\тесты\Treugol1\Treugol1\obj\Debug\Treugol1.csprojAssemblyReference.cache
+F:\тесты\Treugol1\Treugol1\obj\Debug\Treugol1.csproj.CoreCompileInputs.cache
+F:\тесты\Treugol1\Treugol1\obj\Debug\Treugol1.dll
+F:\тесты\Treugol1\Treugol1\obj\Debug\Treugol1.pdb
+G:\тесты\номерАВТО\Treugol1\bin\Debug\Treugol1.dll
+G:\тесты\номерАВТО\Treugol1\bin\Debug\Treugol1.pdb
+G:\тесты\номерАВТО\Treugol1\obj\Debug\Treugol1.csprojAssemblyReference.cache
+G:\тесты\номерАВТО\Treugol1\obj\Debug\Treugol1.csproj.CoreCompileInputs.cache
+G:\тесты\номерАВТО\Treugol1\obj\Debug\Treugol1.dll
+G:\тесты\номерАВТО\Treugol1\obj\Debug\Treugol1.pdb
+F:\тесты\номерАВТО\Treugol1\bin\Debug\Treugol1.dll
+F:\тесты\номерАВТО\Treugol1\bin\Debug\Treugol1.pdb
+F:\тесты\номерАВТО\Treugol1\obj\Debug\Treugol1.csprojAssemblyReference.cache
+F:\тесты\номерАВТО\Treugol1\obj\Debug\Treugol1.csproj.CoreCompileInputs.cache
+F:\тесты\номерАВТО\Treugol1\obj\Debug\Treugol1.dll
+F:\тесты\номерАВТО\Treugol1\obj\Debug\Treugol1.pdb
+F:\тесты\номерАВТО — копия\Treugol1\bin\Debug\Treugol1.dll
+F:\тесты\номерАВТО — копия\Treugol1\bin\Debug\Treugol1.pdb
+F:\тесты\номерАВТО — копия\Treugol1\obj\Debug\Treugol1.csprojAssemblyReference.cache
+F:\тесты\номерАВТО — копия\Treugol1\obj\Debug\Treugol1.csproj.CoreCompileInputs.cache
+F:\тесты\номерАВТО — копия\Treugol1\obj\Debug\Treugol1.dll
+F:\тесты\номерАВТО — копия\Treugol1\obj\Debug\Treugol1.pdb
